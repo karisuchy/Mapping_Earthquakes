@@ -130,3 +130,6 @@ dmypy.json
 
 # Ignore the config.js file.
 config.js
+
+# Ignore the config.js file.
+msp_config.js
