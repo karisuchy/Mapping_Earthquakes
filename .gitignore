@@ -134,9 +134,11 @@ config.js
 # Ignore the config.js file.
 msp_config.js
 
-
 # Ignore the config.js file.
 mmp_config.js
 
 # Ignore the config.js file.
 ml_config.js
+
+# Ignore the config.js file.
+mgp_config.js
