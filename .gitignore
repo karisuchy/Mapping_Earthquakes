@@ -142,3 +142,7 @@ ml_config.js
 
 # Ignore the config.js file.
 mgp_config.js
+
+# Ignore the config.js file.
+air_config.js
+
